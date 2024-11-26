@@ -1,0 +1,44 @@
+E:\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\bin\Debug\net8.0-windows\AttendanceManagementSystem1.0.exe
+E:\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\bin\Debug\net8.0-windows\AttendanceManagementSystem1.0.deps.json
+E:\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\bin\Debug\net8.0-windows\AttendanceManagementSystem1.0.runtimeconfig.json
+E:\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\bin\Debug\net8.0-windows\AttendanceManagementSystem1.0.dll
+E:\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\bin\Debug\net8.0-windows\AttendanceManagementSystem1.0.pdb
+E:\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\obj\Debug\net8.0-windows\AttendanceManagementSystem1._0.Form1.resources
+E:\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\obj\Debug\net8.0-windows\AttendanceManagementSystem1._0.Mainform.resources
+E:\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\obj\Debug\net8.0-windows\AttendanceManagementSystem1.0.csproj.GenerateResource.cache
+E:\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\obj\Debug\net8.0-windows\AttendanceManagementSystem1.0.GeneratedMSBuildEditorConfig.editorconfig
+E:\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\obj\Debug\net8.0-windows\AttendanceManagementSystem1.0.AssemblyInfoInputs.cache
+E:\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\obj\Debug\net8.0-windows\AttendanceManagementSystem1.0.AssemblyInfo.cs
+E:\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\obj\Debug\net8.0-windows\AttendanceManagementSystem1.0.csproj.CoreCompileInputs.cache
+E:\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\obj\Debug\net8.0-windows\AttendanceManagementSystem1.0.dll
+E:\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\obj\Debug\net8.0-windows\refint\AttendanceManagementSystem1.0.dll
+E:\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\obj\Debug\net8.0-windows\AttendanceManagementSystem1.0.pdb
+E:\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\obj\Debug\net8.0-windows\AttendanceManagementSystem1.0.genruntimeconfig.cache
+E:\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\obj\Debug\net8.0-windows\ref\AttendanceManagementSystem1.0.dll
+E:\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\obj\Debug\net8.0-windows\AttendanceManagementSystem1._0.DeleteAttendanceForm.resources
+E:\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\obj\Debug\net8.0-windows\AttendanceManagementSystem1._0.InputAttendanceForm.resources
+E:\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\obj\Debug\net8.0-windows\AttendanceManagementSystem1._0.ModifyAttendanceForm.resources
+E:\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\obj\Debug\net8.0-windows\AttendanceManagementSystem1._0.QueryAttendanceForm.resources
+E:\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\obj\Debug\net8.0-windows\AttendanceManagementSystem1._0.ViewAttendanceForm.resources
+D:\HBUT\7th\Net Pro\AttendanceManagementSystem\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\bin\Debug\net8.0-windows\AttendanceManagementSystem1.0.exe
+D:\HBUT\7th\Net Pro\AttendanceManagementSystem\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\bin\Debug\net8.0-windows\AttendanceManagementSystem1.0.deps.json
+D:\HBUT\7th\Net Pro\AttendanceManagementSystem\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\bin\Debug\net8.0-windows\AttendanceManagementSystem1.0.runtimeconfig.json
+D:\HBUT\7th\Net Pro\AttendanceManagementSystem\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\bin\Debug\net8.0-windows\AttendanceManagementSystem1.0.dll
+D:\HBUT\7th\Net Pro\AttendanceManagementSystem\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\bin\Debug\net8.0-windows\AttendanceManagementSystem1.0.pdb
+D:\HBUT\7th\Net Pro\AttendanceManagementSystem\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\obj\Debug\net8.0-windows\AttendanceManagementSystem1._0.DeleteAttendanceForm.resources
+D:\HBUT\7th\Net Pro\AttendanceManagementSystem\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\obj\Debug\net8.0-windows\AttendanceManagementSystem1._0.Form1.resources
+D:\HBUT\7th\Net Pro\AttendanceManagementSystem\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\obj\Debug\net8.0-windows\AttendanceManagementSystem1._0.InputAttendanceForm.resources
+D:\HBUT\7th\Net Pro\AttendanceManagementSystem\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\obj\Debug\net8.0-windows\AttendanceManagementSystem1._0.Mainform.resources
+D:\HBUT\7th\Net Pro\AttendanceManagementSystem\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\obj\Debug\net8.0-windows\AttendanceManagementSystem1._0.ModifyAttendanceForm.resources
+D:\HBUT\7th\Net Pro\AttendanceManagementSystem\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\obj\Debug\net8.0-windows\AttendanceManagementSystem1._0.QueryAttendanceForm.resources
+D:\HBUT\7th\Net Pro\AttendanceManagementSystem\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\obj\Debug\net8.0-windows\AttendanceManagementSystem1._0.ViewAttendanceForm.resources
+D:\HBUT\7th\Net Pro\AttendanceManagementSystem\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\obj\Debug\net8.0-windows\AttendanceManagementSystem1.0.csproj.GenerateResource.cache
+D:\HBUT\7th\Net Pro\AttendanceManagementSystem\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\obj\Debug\net8.0-windows\AttendanceManagementSystem1.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\HBUT\7th\Net Pro\AttendanceManagementSystem\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\obj\Debug\net8.0-windows\AttendanceManagementSystem1.0.AssemblyInfoInputs.cache
+D:\HBUT\7th\Net Pro\AttendanceManagementSystem\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\obj\Debug\net8.0-windows\AttendanceManagementSystem1.0.AssemblyInfo.cs
+D:\HBUT\7th\Net Pro\AttendanceManagementSystem\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\obj\Debug\net8.0-windows\AttendanceManagementSystem1.0.csproj.CoreCompileInputs.cache
+D:\HBUT\7th\Net Pro\AttendanceManagementSystem\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\obj\Debug\net8.0-windows\AttendanceManagementSystem1.0.dll
+D:\HBUT\7th\Net Pro\AttendanceManagementSystem\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\obj\Debug\net8.0-windows\refint\AttendanceManagementSystem1.0.dll
+D:\HBUT\7th\Net Pro\AttendanceManagementSystem\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\obj\Debug\net8.0-windows\AttendanceManagementSystem1.0.pdb
+D:\HBUT\7th\Net Pro\AttendanceManagementSystem\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\obj\Debug\net8.0-windows\AttendanceManagementSystem1.0.genruntimeconfig.cache
+D:\HBUT\7th\Net Pro\AttendanceManagementSystem\AttendanceManagementSystem1.0\AttendanceManagementSystem1.0\obj\Debug\net8.0-windows\ref\AttendanceManagementSystem1.0.dll

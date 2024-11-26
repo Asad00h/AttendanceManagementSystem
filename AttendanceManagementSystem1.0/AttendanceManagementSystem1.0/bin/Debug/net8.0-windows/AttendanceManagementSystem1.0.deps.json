@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AttendanceManagementSystem1.0/1.0.0": {
+        "runtime": {
+          "AttendanceManagementSystem1.0.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AttendanceManagementSystem1.0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
